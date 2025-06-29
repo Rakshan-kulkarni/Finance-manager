@@ -209,7 +209,8 @@ project/
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
+Copyright (c) 2024 Rakshankhan Kulkarni
 
 ## ⚠️ Important Security Notes
 
