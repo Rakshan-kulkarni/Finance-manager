@@ -4,10 +4,9 @@ A comprehensive personal finance management application built with React, TypeSc
 
 ## 🖼️ Sample Screenshots
 
-![Register Page](docs/Register.png)
-![Dashboard](docs/Dashboard.png)
+Screenshots of the app (Register, Dashboard, and more) are available in the [`screenshots/`](screenshots) folder of this repository.
 
-*Above: Register and Dashboard views of the Personal Finance Manager app.*
+You can view all images there for a visual overview of the application.
 
 ## 🚀 Features
 
