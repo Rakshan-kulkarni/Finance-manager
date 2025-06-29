@@ -2,11 +2,12 @@
 
 A comprehensive personal finance management application built with React, TypeScript, Node.js, and MongoDB.
 
-## 🖼️ Sample Screenshot
+## 🖼️ Sample Screenshots
 
-![App Screenshot](docs/screenshot.png)
+![Register Page](docs/Register.png)
+![Dashboard](docs/Dashboard.png)
 
-*Above: Dashboard view of the Personal Finance Manager app.*
+*Above: Register and Dashboard views of the Personal Finance Manager app.*
 
 ## 🚀 Features
 
