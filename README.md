@@ -210,7 +210,7 @@ project/
 ## 📝 License
 
 This project is licensed under the MIT License.  
-Copyright (c) 2024 Rakshankhan Kulkarni
+Copyright (c) 2025 Rakshankhan Kulkarni
 
 ## ⚠️ Important Security Notes
 
