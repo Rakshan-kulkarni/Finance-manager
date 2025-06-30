@@ -8,6 +8,12 @@ Screenshots of the app (Register, Dashboard, and more) are available in the [`sc
 
 You can view all images there for a visual overview of the application.
 
+## 🎥 Demo Video
+
+A demo video of the application will be available soon!
+
+To view the demo, check the [`demo/`](demo) folder for `demo.mp4` (or similar) once uploaded.
+
 ## 🚀 Features
 
 - **Transaction Management**: Track income and expenses with categories
@@ -137,93 +143,3 @@ This app requires a MongoDB database. You have two options:
 ## 📁 Project Structure
 
 ```
-project/
-├── src/                    # Frontend source code
-│   ├── components/         # React components
-│   ├── pages/             # Page components
-│   ├── context/           # React context
-│   ├── hooks/             # Custom hooks
-│   ├── lib/               # Utility functions
-│   └── types/             # TypeScript type definitions
-├── backend/               # Backend source code
-│   ├── models/            # MongoDB models
-│   ├── routes/            # API routes
-│   ├── middleware/        # Express middleware
-│   └── server.js          # Main server file
-├── .env.example           # Environment variables template
-├── .gitignore            # Git ignore rules
-└── README.md             # This file
-```
-
-## 🚀 Deployment
-
-### Frontend Deployment (Vercel/Netlify)
-
-1. Set environment variable:
-   ```
-   VITE_API_URL=https://your-backend-url.com
-   ```
-
-2. Build and deploy:
-   ```bash
-   npm run build
-   ```
-
-### Backend Deployment (Heroku/Railway)
-
-1. Set environment variables:
-   ```
-   MONGO_URI=your_mongodb_atlas_connection_string
-   JWT_SECRET=your_secure_jwt_secret
-   PORT=5000
-   ```
-
-2. Deploy your backend code
-
-## 🔧 Development
-
-### Available Scripts
-
-**Frontend:**
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-
-**Backend:**
-- `npm start` - Start production server
-- `npm run dev` - Start development server with nodemon
-
-### Code Style
-
-- ESLint configuration included
-- Prettier formatting
-- TypeScript strict mode enabled
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License.  
-Copyright (c) 2025 Rakshankhan Kulkarni
-
-## ⚠️ Important Security Notes
-
-1. **Never commit `.env` files** - They contain sensitive information
-2. **Use strong JWT secrets** - Generate a secure random string
-3. **Keep dependencies updated** - Regularly update packages for security patches
-4. **Use HTTPS in production** - Always use secure connections
-5. **Monitor your logs** - Check for suspicious activity
-
-## 🆘 Support
-
-If you encounter any issues or have questions, please open an issue on GitHub.
-
----
-
-**Note**: This is a personal finance application. Always ensure your data is backed up and stored securely. 
